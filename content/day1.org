@@ -1,0 +1,32 @@
+#+title: Day 1 – Introduction
+#+slug: day1
+
+#+OPTIONS: toc:nil
+
+{{<cor>}}Monday, June 6{{</cor>}}
+
+{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}\\
+*Connection Details:* {{<a "xxx" "Lesson Room Link">}}
+
+*There are no extra materials for day , but there is software installation, please see the* [[https://dhsi-2022.netlify.app/help/][Help and info page]] *for instructions.* We will be using a data file for part 1 but we will download that together live.
+
+** Lesson Plan 
+-----
+
+*** Introductions and course plan (9:00–9:15 am)
+
+*** Using the Command line (9:15–11:00 am)
+
+- Introducing the shell
+- Navigating the file system
+- Working with files and directories
+
+*** Break (11:00–11:15 am)
+
+*** Introduction to Python (11:15 am–1:00 pm)
+
+- Jupyter Lab
+- Variables and Assignment
+- Data Types and Type conversion
+- Built-in functions and Help
+- Libraries

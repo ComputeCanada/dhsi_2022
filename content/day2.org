@@ -1,0 +1,30 @@
+#+title: Day 2 – Python
+#+slug: day2
+
+#+OPTIONS: toc:nil
+
+{{<cor>}}Tuesday, June 7{{</cor>}}
+
+{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}\\
+*Connection Details:* {{<a "xxx" "Lesson Room Link">}}
+
+*There are no extra materials required for day 2.*
+
+** Lesson Plan
+-----
+
+*** Dive into Python—Part 1 (9:00–11:00 am)
+
+- Lists
+- Loops
+- Dictionaries
+- Conditionals
+  
+*** Break (11:00–11:15 am)
+
+*** Dive into Python—Part 2 (11:15 am–1:00 pm)
+
+[[/notes_part2][Lesson Notes Part 2]]
+
+- Writing functions
+- Introduction to Pandas
