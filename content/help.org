@@ -1,0 +1,211 @@
+#+title: Help & Info
+#+slug: help
+
+* Instructors
+
+#+BEGIN_export html
+<figure style="display: table">
+  <div class="row" style="padding: 20px 0px">
+    <div style="float: left; width: 20%; border-radius: 0px">
+      <div align="left">
+	  <img src="/img/mh.jpg" width="80%" style="box-shadow: 0.5px 0.2px 3px #b3b3b3">
+      </div>
+    </div>
+    <div style="float: left; width: 80%">
+      <div align="left">
+        Evolutionary and behavioural ecologist by training, {{<a "https://carpentries.org/" "Software/Data Carpentry instructor,">}} and open source proponent, {{<a "https://www.sfu.ca/~msb2/" "Marie-Hélène Burle">}} develops and delivers training for researchers on computing tools (R, Python, Julia, Git, Bash scripting, machine learning, parallel scientific programming, HPC) for {{<a "https://www.sfu.ca/" "Simon Fraser University">}} and the {{<a "https://alliancecan.ca/" "Digital Research Alliance of Canada.">}}
+	  </div>
+	</div>
+  </div>
+  <div class="row" style="padding: 20px 0px">
+    <div style="float: left; width: 20%">
+      <div align="left">
+	  <img src="/img/xxx" width="80%" style="box-shadow: 0.5px 0.2px 3px #b3b3b3">
+      </div>
+    </div>
+    <div style="float: left; width: 80%">
+      <div align="left">
+	  Grace Fishbein
+      </div>
+    </div>
+  </div>
+  <div class="row" style="padding: 20px 0px">
+    <div style="float: left; width: 20%; border-radius: 0px">
+      <div align="left">
+	  <img src="/img/xxx" width="80%" style="box-shadow: 0.5px 0.2px 3px #b3b3b3">
+      </div>
+    </div>
+    <div style="float: left; width: 80%">
+      <div align="left">
+        Lydia Vermeyden
+	</div>
+    </div>
+  </div>
+</figure>
+#+END_export
+
+* Schedule
+
+*** Day 1
+
+9:00–9:15 am	Introduction and Course Plan \\
+9:15–11:00 am       Intro to Command Line \\
+11:00–11:15 am 	Break \\
+11:15–1:00 pm 	Intro to Python
+
+*** Day 2
+
+9:00–11:00 am 	Dive into Python part 1 \\
+11:00–11:15 am 	Break \\
+11:15–1:00 pm 	Dive into Python part 2
+
+*** Day 3
+
+9:00–11:00 am	Room 1: Topic Modeling; Room 2: Web Scraping \\
+11:00–11:15 am 	Break \\
+11:15–1:00pm 	Room 1: API querying
+
+*** Day 4
+
+9 am–1 pm           Office hours 
+
+*** Day 5
+
+9:00–11:00 am 	Project Presentations \\
+11:00–11:15 am 	Break \\
+11:15–1:00 pm 	Project Presentations
+
+* Project selection
+
+There will be an independent study project as part of the course, for which we will assign small groups (2–3 people depending on shared interests). We have built a google form to help us assign groups and projects. Please fill out the form no later than May 14th as this will allow us to plan for projects and groups ahead of time and tailor content accordingly.
+
+{{<a "xxx" "Google form for project selection">}}
+
+If you don't have a project in mind you would like to complete there are several suggestions to choose from on the form:
+
+**** Web scraping
+
+This is an automated way to pull specific data from webpages. So this could be text, links, images etc., but the key is that this data is kept on web pages in a format and quantity such that it is difficult or time consuming to gather manually. Consider, you want to gather all the public health notices on all public health canadian websites that mention "lockdown". there are going to be several websites with information that is not in an easily exportable form. Perhaps you want to do this repeatedly over time. Python allows you to write a script that can gather this data for you automatically.
+
+**** API querying
+
+This is similar to web scraping and is also all about gathering data. Some websites (like twitter) have an application programming interface (API) . This is basically a little application over the big application (twitter for example) that can extract data from the big application and respond to commands from programs like python. Lots of social media platforms and many popular websites have APIs that can be used to gather curated datasets. (ex. I want all the tweets in the last month containing "snow in April").
+
+**** Topic modelling
+
+This is a tool that came out of machine learning, and it uses an algorithm to sort textual data at the individual word level. It treats the textual data like a "bag of words" or "several bags of words" for multiple manuscripts and collects the text words into topics. These topics are defined by a set number of keywords, and gives the researcher an insight into the kinds of words that are clustering together in their textual dataset. 
+
+**** Interactive game 1
+
+Build a text based adventure game based on a theme of your choice.
+
+**** Interactive game 2
+
+Build an interactive rock-paper-scissors (-lizard–Spock) game.
+
+**** Interactive game 3
+
+Build a mad libs generator.
+
+**** Custom notification
+
+Build a desktop notification application which gives you notifications based on your specific criteria.
+
+* Software installation
+
+You will need to install a number of software on your machine for this course.
+
+*** Python and Python packages
+
+The simplest way to install Python and a number of very useful packages and tools is to install {{<a "https://docs.anaconda.com/anaconda/install/" "Anaconda.">}} Follow the instructions from that link for your operating system.
+
+*** Terminal
+
+/Linux and MacOS users already have a terminal. So this section is for Windows users only./
+
+Windows users should install {{<a "https://gitforwindows.org/" "Git for Windows.">}} While we will not use Git in this course, this software comes with a good Bash emulation called "Git Bash".
+
+*** JupyterLab
+ 
+Once you have a terminal and Anaconda installed, you will be able to install {{<a "https://jupyter.org/install" "JupyterLab.">}} As this installation requires the use of the command line, we will help you with this at the start of the course if you have any issues.
+
+*** A good text editor
+
+Microsoft Word and other word processors are not text editors: they add a lot of invisible formatting to the text you type. For this course, you need a text editor, so they are not suitable.
+
+Notepad—which comes with Windows—is a text editor, but it is too limited.
+
+Examples of good free text editors suitable for beginners are {{<a "https://code.visualstudio.com/download" "Visual Studio Code,">}} {{<a "https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows" "Atom,">}} {{<a "https://notepad-plus-plus.org/downloads/" "Notepad++,">}} {{<a "https://www.sublimetext.com/3" "Sublime Text.">}} Once you have installed one, it would be a good idea to familiarize yourself with it.
+
+* Access to our training JupyterHub
+
+For this course, we will use a temporary JupyterHub.
+
+Here is how to log in:
+
+- Go to {{<a "https://uu.c3.ca" "https://uu.c3.ca">}}
+- Sign in with the username & password we will give you during the course
+- Set the server options according to the image below:
+
+{{<imgm src="/img/jh_widget_nw.png" margin="4rem 0 0 0" title="" width="%" line-height="0rem">}}
+{{</imgm>}}
+
+#+BEGIN_note
+{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} *These are the only values that you should edit:* \\
+{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} Change the time to *8.0* \\
+{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} Change the memory to *2000* \\
+{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} Make sure the interface is set to *JupyterLab*
+#+END_note
+{{<br size="5">}}
+
+- Press start.
+   
+#+BEGIN_note
+Please note that, unlike other JupyterHubs you might have used, this JupyterHub is not permanent and can only be used for this course.
+#+END_note
+
+* Resources
+
+** Books
+
+There are many books on Python, several of which can be accessed online for free, either directly, or through your university.
+
+**** Books by O'Reilly
+
+1. *Think Python*, 2nd Edition, by Allen B. Downey
+2. *Python Pocket Reference*, 5th Edition, by Mark Lutz
+3. *Introducing Python*, by Bill Lubanovic
+4. *Python in a Nutshell*, 3rd Edition, by Alex Martelli, Anna Ravenscroft, and Steve Holden
+5. *Learning Python*, 5th Edition, by Mark Lutz
+6. *Python Cookbook*, 3rd Edition, by David Beazley and Brian K. Jones
+7. *The Hitchhiker's Guide to Python*, by Kenneth Reitz and Tanya Schlusser
+8. *Fluent Python*, by Luciano Ramalho
+9. *High Performance Python*, by Micha Gorelick and Ian Ozsvald
+10. *Web Scraping with Python*, by Ryan Mitchell
+11. *Python Data Science Handbook*, by Jake VanderPlas
+12. *Python for Data Analysis*, by Wes McKinney
+13. *Foundations for Analytics with Python*, by Clinton W. Brownley
+14. *Data Wrangling with Python*, by Jacquiline Kazil and Katharine Jarmul
+15. *Data Visualization with Python and Javascript*, by Kyran Dale
+16. *Natural Language Processing with Python*, by Steven Bird and Ewan Klein
+17. *Thoughtful Machine Learning with Python*, by Matthew Kirk
+18. *Python for Finance*, by Yves Hilpisch
+
+**** Books by No Starch Press
+
+1. *Automate the Boring Stuff with Python*, by Al Sweigart
+2. *Python Crash Course*, by Eric Matthews
+3. *Python Playground*, by Mahesh Venkitachalam
+4. *Doing Math with Python*, by Amit Saha
+5. *Invent Your Own Computer Games with Python*, by Al Sweigart
+
+**** Other books
+
+1. *Python Machine Learning*, by Sebastian Raschka
+2. *Practical Programming: An Introduction to Computer Science Using Python 3*, by Paul Gries, Jennifer Campbell, and Jason Montojo
+3. *Python for Dummies*, by Stef Maruch and Aahz Maruch
+4. *Python Essential Reference*, 4th Edition, by David Beazley
+5. *Head First Python*, by Paul Barry
+6. *Python for Data Science for Dummies*, by John Paul Mueller and Luca Massaron
+7. *Beginning Programming with Python for Dummies*, by John Paul Mueller
+8. *Python for Everybody*, by Charles Severance
