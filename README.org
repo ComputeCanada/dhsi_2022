@@ -1,0 +1,1 @@
+Repo for the [[https://dhsi-2022.netlify.app/][DHSI Coding Fundamentals 2022 course website]].
