@@ -1,0 +1,35 @@
+<section class="container centered">
+  <div class="about">
+    {{ with .Site.Params.wgavatar }}
+    <div>
+      <a href="https://dhsi.org/">
+	<img src="{{ . | relURL }}" alt="dhsiavatar">
+      </a>
+    </div>
+    <br>
+    {{ end }}
+    <h1>{{ .Site.Params.info }}</h1>
+    <br>
+    <br>
+    <div id="frontdates">
+      <div class="left"><a href="/day1">Introduction</a></div>
+      <div class="right">Monday, June 6</div>
+    </div>
+    <div id="frontdates">
+      <div class="left"><a href="/day2">Python basics</a></div>
+      <div class="right">Tuesday, June 7</div>
+    </div>
+    <div id="frontdates">
+      <div class="left"><a href="/day3">Python special topics</a></div>
+      <div class="right">Wednesday, June 8</div>
+    </div>
+    <div id="frontdates">
+      <div class="left"><a href="/day4">On your own!</a></div>
+      <div class="right">Thursday, June 9</div>
+    </div>
+    <div id="frontdates">
+      <div class="left"><a href="/day5">Project presentations</a></div>
+      <div class="right">Friday, June 10</div>
+    </div>
+  </div>
+</section>
