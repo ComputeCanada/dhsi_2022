@@ -11,7 +11,7 @@
     <a href="/"><i class="fa fa-home fa-lg" style='color: #58585a'></i></a>
     <br>
     <br>
-    <div style="font-size: 1.3rem;">
+    <div class="copyright">
       {{ if not .Site.Params.hideCopyright }}
       {{ with .Site.Params.since }}
       © {{ if lt . now.Year }}{{ . }}–{{ end }}{{ now.Year }} <a href="https://www.sfu.ca/">SFU</a> & <a href="https://alliancecan.ca/">DRAC</a>
