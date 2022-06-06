@@ -27,10 +27,6 @@ Note that, unlike other JupyterHubs you might have used (e.g. {{<a "https://syzy
 
 To start a Jupyter notebook with the Python kernel, click on the button "Python 3" in the "Notebook" section (top row of buttons).
 
-{{<br size="2">}}
-
-/[[day1][Back to Day 1]]/
-
 * Run a notebook that has already be written by an instructor
 
 For some courses, the code already exists in a Jupyter notebook. In those cases, instead of typing the code yourself, all you need to do is:
@@ -65,4 +61,6 @@ After you run the code above, you should see the notebook appear in the list of 
 
 (If you do not see your files, make sure to go to your home directory by clicking on the folder icon followed by a forward slash).
 
-* Comments & questions
+{{<br size="2">}}
+
+/[[day1][Back to Day 1]]/
