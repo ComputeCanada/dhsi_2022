@@ -6,7 +6,6 @@
 {{<cor>}}Wednesday, June 8{{</cor>}}
 
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}} \\
-*Connection Details:* {{<a "xxx" "Lesson Room Link">}}
 
 *There are no extra materials required for day 3, but some sessions will have you working in a virtual jupyter environment, we will provide you with login information at the beginning.*
 
@@ -17,6 +16,7 @@ Room 2: Web Scraping (9:00–11:00 am)/
 
 /Room 1: NLP (11:15 am–1:00 pm) \\
 Room 2: API Querying (11:15 am–1:00 pm)/
+*Connection Details:* {{<a "https://us02web.zoom.us/j/84503894815?pwd=VjNPN0NEenE0bVRZZTNZV3dXTWg5UT09" "Lesson Room Link">}}
 
 ** Lesson Plan
 -----

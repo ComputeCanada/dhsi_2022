@@ -6,6 +6,6 @@
 {{<cor>}}Friday, June 10{{</cor>}}
 
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}} \\
-*Connection Details:* {{<a "xxx" "Lesson Room Link">}}
+*Connection Details:* {{<a "https://us02web.zoom.us/j/84503894815?pwd=VjNPN0NEenE0bVRZZTNZV3dXTWg5UT09" "Lesson Room Link">}}
 
 

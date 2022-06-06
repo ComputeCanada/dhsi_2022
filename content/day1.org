@@ -6,9 +6,9 @@
 {{<cor>}}Monday, June 6{{</cor>}}
 
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}\\
-*Connection Details:* {{<a "xxx" "Lesson Room Link">}}
 
 *There are no extra materials for day , but there is software installation, please see the* [[https://dhsi-2022.netlify.app/help/][Help and info page]] *for instructions.* We will be using a data file for part 1 but we will download that together live.
+*Connection Details:* {{<a "https://us02web.zoom.us/j/84503894815?pwd=VjNPN0NEenE0bVRZZTNZV3dXTWg5UT09" "Lesson Room Link">}}
 
 ** Lesson Plan 
 -----
