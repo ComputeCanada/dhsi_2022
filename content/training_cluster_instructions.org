@@ -16,11 +16,8 @@ For this course, we will use a temporary JupyterHub. Here is how to log in:
 *These are the only values that you should edit:* \\
 Change the time to *3.0*
 #+END_note
-{{<br size="4">}}
 
 - Press start.
-
-{{<br size="4">}}
 
 #+BEGIN_note
 Note that, unlike other JupyterHubs you might have used (e.g. {{<a "https://syzygy.ca/" "Syzygy">}}), this JupyterHub is not permanent and can only be used for this course.
