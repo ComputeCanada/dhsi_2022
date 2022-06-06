@@ -15,7 +15,7 @@
 
 *** Introductions and course plan (9:00–9:15 am)
 
-{{<linktitle url="/instructions" text="Instructions to access our training cluster">}}
+{{<m>}}{{<s>}}{{<linktitle url="/instructions" text="Instructions to access our training cluster">}}
 
 *** Using the Command line (9:15–11:00 am)
 
