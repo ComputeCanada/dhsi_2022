@@ -61,9 +61,11 @@
 
 *** Day 3
 
-9:00–11:00 am	Room 1: Topic Modeling; Room 2: Web Scraping \\
-11:00–11:15 am 	Break \\
-11:15–1:00pm 	Room 1: API querying
+9:00–10:15 am	Web Scraping \\
+10:15–10:20 am 	Break \\
+10:20–11:35 am 	API Querying \\
+11:35–11:45 am	Break \\
+11:45–1:00 pm	Topic Modelling
 
 *** Day 4
 
