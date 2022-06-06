@@ -13,16 +13,7 @@
 
 *** Dive into Python—Part 1 (9:00–11:00 am)
 
-- Lists
-- Loops
-- Dictionaries
-- Conditionals
-  
 *** Break (11:00–11:15 am)
 
 *** Dive into Python—Part 2 (11:15 am–1:00 pm)
 
-[[/notes_part2][Lesson Notes Part 2]]
-
-- Writing functions
-- Introduction to Pandas
