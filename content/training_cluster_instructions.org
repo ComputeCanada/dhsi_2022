@@ -14,7 +14,7 @@ For this course, we will use a temporary JupyterHub. Here is how to log in:
 
 #+BEGIN_note
 *These are the only values that you should edit:* \\
-Change the time to *3.0*
+Change the time to *5.0*
 #+END_note
 
 - Press start.
