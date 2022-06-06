@@ -42,10 +42,10 @@ To copy a notebook to your home directory, launch a terminal in JupyterHub by cl
 In the terminal, run the code:
 
 #+BEGIN_src sh
-cp ~/projects/def-sponsor00/shared/dhsi/xxxx.ipynb .
+cp ~/projects/def-sponsor00/shared/dhsi/xxx.ipynb .
 #+END_src
 
-Replace `xxxx` by the name of the file you need. For instance, for the API Querying course, you will run:
+Replace ~xxx~ by the name of the file you need. For instance, for the API Querying course, you will run:
 
 #+BEGIN_src sh
 cp ~/projects/def-sponsor00/shared/dhsi/topic_modeling_sonnets_gensim.ipynb .
