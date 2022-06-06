@@ -31,4 +31,38 @@ To start a Jupyter notebook with the Python kernel, click on the button "Python 
 
 /[[day1][Back to Day 1]]/
 
+* Run a notebook that has already be written by an instructor
+
+For some courses, the code already exists in a Jupyter notebook. In those cases, instead of typing the code yourself, all you need to do is:
+
+1. Copy it to your home directory
+2. Open it
+3. Run it
+
+** Copying a prepared notebook to your home directory
+
+To copy a notebook to your home directory, launch a terminal in JupyterHub by clicking on the "Terminal" button under the "Other" section in the Jupyter launcher (if you don't see the launcher, click on "File" in the top menu and selection "New Launcher" or press Ctrl+Shift+L).
+
+In the terminal, run the code:
+
+#+BEGIN_src sh
+cp ~/projects/def-sponsor00/shared/dhsi/xxxx.ipynb .
+#+END_src
+
+Replace `xxxx` by the name of the file you need. For instance, for the API Querying course, you will run:
+
+#+BEGIN_src sh
+cp ~/projects/def-sponsor00/shared/dhsi/topic_modeling_sonnets_gensim.ipynb .
+#+END_src
+
+#+BEGIN_note
+Don't forget the dot at the end of this code!
+#+END_note
+
+** Open a notebook you just copied
+
+After you run the code above, you should see the notebook appear in the list of your files. To open it, double-click on it.
+
+(If you do not see your files, make sure to go to your home directory by clicking on the folder icon followed by a forward slash).
+
 * Comments & questions
