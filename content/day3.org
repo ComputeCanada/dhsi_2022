@@ -11,8 +11,6 @@
 ** Lesson Plan
 -----
 
-*Some special topics have materials, such as codebooks, but no specific notes*
-
 *** Web Scraping (9:00–10:15 am)
 
 - What is web scraping?
