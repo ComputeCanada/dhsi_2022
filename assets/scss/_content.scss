@@ -265,23 +265,19 @@ ul {
 
 .linktitle {
   font-family: $heading-font-family;
-  // color: #132639;
-  // color: #3d455a;
-  // color: #336699;
-  color: #ab2908;
-  // font-style: italic;
-  font-weight: bold;
-  // font-size: 1.7rem;
-  padding-left: 30rem;
-  @media only screen and (max-width : 480px) {
-    padding-left: 3rem;
-  }
+  color: $link-color;
+  // font-weight: bold;
+  font-size: 1.8rem;
+  // padding-left: 30rem;
+  // @media only screen and (max-width : 480px) {
+  //   padding-left: 3rem;
+  // }
   &:hover,
   &:focus {
     font-style: italic;
   }
   &:visited {
-    color: #7a1d06
+    color: $link-visited-color;
   }
 }
 
