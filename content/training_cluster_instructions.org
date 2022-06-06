@@ -1,3 +1,33 @@
 #+title: Instructions to access our training cluster
 #+slug: instructions
 
+* Log in to the JupyterHub on our training cluster
+
+For this course, we will use a temporary JupyterHub. Here is how to log in:
+
+- Go to {{<a "https://beluu.c3.ca" "https://beluu.c3.ca,">}}
+- Sign in with the username & password you just got,
+- Set the server options according to the image below,
+
+{{<imgmshadow src="/img/jupyter_sever_options.png" margin="4rem 0 0 0" title="" width="%" line-height="0rem">}}
+{{</imgmshadow>}}
+
+#+BEGIN_note
+*These are the only values that you should edit:* \\
+Change the time to *3.0*
+#+END_note
+{{<br size="4">}}
+
+- Press start.
+
+{{<br size="4">}}
+
+#+BEGIN_note
+Note that, unlike other JupyterHubs you might have used (e.g. {{<a "https://syzygy.ca/" "Syzygy">}}), this JupyterHub is not permanent and can only be used for this course.
+#+END_note
+
+* Start a Python notebook
+
+To start a Jupyter notebook with the Python kernel, click on the button "Python 3" in the "Notebook" section (top row of buttons).
+
+* Comments & questions
