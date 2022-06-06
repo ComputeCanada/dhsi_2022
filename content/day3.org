@@ -23,16 +23,7 @@ Room 2: API Querying (11:15 am–1:00 pm)/
 
 *Some special topics have materials, such as codebooks, but no specific notes*
 
-*** Topic Modeling (9:00–11:00 am)
-
-- What is Topic modeling?
-- Reading other peopl's code
-- Formatting data
-- Building a model
-- Coherence and choosing a model
-- Visualization
-
-*** Web Scraping (9:00–11:00 am)
+*** Web Scraping (9:00–10:15 am)
 
 - What is web scraping?
 - Introduction to Beautiful Soup
@@ -40,9 +31,9 @@ Room 2: API Querying (11:15 am–1:00 pm)/
 - Using Regular Expressions
 - To scrape or not to scrape?
 
-*** Break (11:00–11:15 am)
+*** Break (10:15–10:20 am)
 
-*** API Querying (11:15 am–1:00 pm)
+*** API Querying (10:20 am–11:35 am)
 
 - What is an API?
 - The wide world of Web-API's
@@ -51,3 +42,14 @@ Room 2: API Querying (11:15 am–1:00 pm)/
 - Querying
 - Formatting and extracting data
 - Authentication
+  
+*** Break (11:35–11:45 am)
+
+*** Topic Modeling (11:45–1:00 pm)
+
+- What is Topic modeling?
+- Reading other peopl's code
+- Formatting data
+- Building a model
+- Coherence and choosing a model
+- Visualization
