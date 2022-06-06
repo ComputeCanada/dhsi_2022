@@ -27,4 +27,8 @@ Note that, unlike other JupyterHubs you might have used (e.g. {{<a "https://syzy
 
 To start a Jupyter notebook with the Python kernel, click on the button "Python 3" in the "Notebook" section (top row of buttons).
 
+{{<br size="2">}}
+
+/[[day1][Back to Day 1]]/
+
 * Comments & questions
