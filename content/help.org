@@ -145,11 +145,9 @@ Examples of good free text editors suitable for beginners are {{<a "https://code
 
 * Resources
 
-** Books
-
 There are many books on Python, several of which can be accessed online for free, either directly, or through your university.
 
-**** Books by O'Reilly
+*** Books by O'Reilly
 
 1. *Think Python*, 2nd Edition, by Allen B. Downey
 2. *Python Pocket Reference*, 5th Edition, by Mark Lutz
@@ -170,7 +168,7 @@ There are many books on Python, several of which can be accessed online for free
 17. *Thoughtful Machine Learning with Python*, by Matthew Kirk
 18. *Python for Finance*, by Yves Hilpisch
 
-**** Books by No Starch Press
+*** Books by No Starch Press
 
 1. *Automate the Boring Stuff with Python*, by Al Sweigart
 2. *Python Crash Course*, by Eric Matthews
@@ -178,7 +176,7 @@ There are many books on Python, several of which can be accessed online for free
 4. *Doing Math with Python*, by Amit Saha
 5. *Invent Your Own Computer Games with Python*, by Al Sweigart
 
-**** Other books
+*** Other books
 
 1. *Python Machine Learning*, by Sebastian Raschka
 2. *Practical Programming: An Introduction to Computer Science Using Python 3*, by Paul Gries, Jennifer Campbell, and Jason Montojo
