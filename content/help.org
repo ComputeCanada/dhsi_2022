@@ -25,7 +25,7 @@
     </div>
     <div style="float: left; width: 80%">
       <div align="left">
-	  Grace Fishbein
+	  Grace Fishbein joined ACENET in 2019 and is based in St. John’s at Memorial University of Newfoundland. She completed her undergraduate degree at Memorial in applied math and physics and then pursued her masters in biomedical physics at Ryerson University. Her masters research involved exploring the design and behaviour analysis of microbubbles and nanobubbles, which are used as contrast agents in ultrasound. This required the development of an algorithm to sort through and differentiate RF data demonstrating bubble behaviour using MATLAB. Throughout her masters, Grace sought out professional development opportunities that focused on improving learning and teaching in higher education. As ACENET’s Training Coordinator she is responsible for the organization and landscape of ACENET’s Training. Most recently, this has included offering support to increase the training resources available to the Humanities and Social Sciences community.
       </div>
     </div>
   </div>
@@ -37,7 +37,7 @@
     </div>
     <div style="float: left; width: 80%">
       <div align="left">
-        Lydia Vermeyden
+        Lydia Vermeyden joined ACENET in 2020 and is located at St. Francis Xavier University Campus. Lydia works closely with faculty and academic research groups requiring access to the Compute Canada Federation’s national digital infrastructure and resources. She provides consultation and training to help determine the most appropriate digital tools, design data workflows, setup virtual machines in the cloud, get started using high performance computing clusters and advise on storage. Her research background includes clinical psychology (perinatal maternal mental health, e-screening and e-intervention) and public health administration (experiences and opinions around health and safety, and the effects of employment legislation on family farms in Alberta).
 	</div>
     </div>
   </div>
