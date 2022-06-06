@@ -63,4 +63,4 @@ After you run the code above, you should see the notebook appear in the list of 
 
 {{<br size="2">}}
 
-/[[day1][Back to Day 1]]/
+/[[/day1][Back to Day 1]]/
