@@ -113,9 +113,9 @@ Build a mad libs generator.
 
 Build a desktop notification application which gives you notifications based on your specific criteria.
 
-* Software installation
+* Software installation (optional)
 
-You will need to install a number of software on your machine for this course.
+If you want to use Python on your machine, instead of/in addition to using it on our training cluster, you will need to install the following:
 
 *** Python and Python packages
 
