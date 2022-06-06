@@ -141,30 +141,7 @@ Examples of good free text editors suitable for beginners are {{<a "https://code
 
 * Access to our training JupyterHub
 
-For this course, we will use a temporary JupyterHub.
-
-Here is how to log in:
-
-- Go to {{<a "https://uu.c3.ca" "https://uu.c3.ca">}}
-- Sign in with the username & password we will give you during the course
-- Set the server options according to the image below:
-
-{{<imgm src="/img/jh_widget_nw.png" margin="4rem 0 0 0" title="" width="%" line-height="0rem">}}
-{{</imgm>}}
-
-#+BEGIN_note
-{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} *These are the only values that you should edit:* \\
-{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} Change the time to *8.0* \\
-{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} Change the memory to *2000* \\
-{{<s>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}} Make sure the interface is set to *JupyterLab*
-#+END_note
-{{<br size="5">}}
-
-- Press start.
-   
-#+BEGIN_note
-Please note that, unlike other JupyterHubs you might have used, this JupyterHub is not permanent and can only be used for this course.
-#+END_note
+[[https://dhsi-2022.netlify.app/instructions/][Instructions to access our training cluster.]]
 
 * Resources
 
