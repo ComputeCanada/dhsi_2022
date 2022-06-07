@@ -5,8 +5,10 @@
 
 {{<cor>}}Tuesday, June 7{{</cor>}}
 
-{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}\\
-*Connection Details:* {{<a "https://us02web.zoom.us/j/84503894815?pwd=VjNPN0NEenE0bVRZZTNZV3dXTWg5UT09" "Lesson Room Link">}}
+{{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}
+
+*Connection Details:* {{<m>}}{{<a "https://us02web.zoom.us/j/84503894815?pwd=VjNPN0NEenE0bVRZZTNZV3dXTWg5UT09" "Lesson Room Link">}}\\
+*Lesson notes:* {{<m>}}{{<m>}}{{<m>}}{{<s>}}[[/python_intro][Introduction to Python]]
 
 ** Lesson Plan
 -----
@@ -16,4 +18,3 @@
 *** Break (11:00–11:15 am)
 
 *** Dive into Python—Part 2 (11:15 am–1:00 pm)
-
