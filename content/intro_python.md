@@ -503,4 +503,4 @@ help(math)   # Help for libraries works just like help for functions
 
 {{<br size="2">}}
 
-*[Back to Day2](/day2)*
+*[Back to Day 2](/day2)*
