@@ -139,3 +139,7 @@ type(df)
 ```{python}
 print(df)
 ```
+
+{{<br size="2">}}
+
+*[Back to Day 3](/day3)*
