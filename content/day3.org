@@ -16,7 +16,7 @@
 
 {{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}{{<a "https://docs.google.com/presentation/d/e/2PACX-1vQbTU0sMSuzXNx7VXstbaz7_bsE5QIp0CIs33r0QOL2Bb6dOTWD-qLxinGTNnMvCJt-QK2NSMMdx6Qe/pub?start=false&loop=false&delayms=3000" "Topic modeling (open slides in new tab)">}}\\
 {{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}{{<a "/files/data.zip" "Topic modeling (download data)">}}\\
-{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}{{<a "/files/topic_modeling_sonnets_gensim.ipynb" "Topic modeling (download Jupyter notebook)">}}
+{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}<a href="/files/topic_modeling_sonnets_gensim.ipynb" download>Topic modeling (download Jupyter notebook)</a>
 
 ** Lesson Plan
 -----
