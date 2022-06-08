@@ -11,7 +11,7 @@
 
 *Lesson notes:* {{<m>}}{{<m>}}{{<m>}}{{<s>}}[[/web_scraping][Web scraping with Python]]
 
-{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}{{<a "/files/API_Querying_feb_2022.pdf" "API querying (download pdf)">}}\\
+{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}{{<a "/files/API_Querying_feb_2022.pdf" "API querying (open pdf in a new tab)">}}\\
 {{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}{{<a "https://colab.research.google.com/github/ComputeCanada/hss-programing-lab-2022/blob/main/API_en.ipynb" "API querying (open Colab notebook in new tab)">}}
 
 {{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}{{<a "https://docs.google.com/presentation/d/e/2PACX-1vQbTU0sMSuzXNx7VXstbaz7_bsE5QIp0CIs33r0QOL2Bb6dOTWD-qLxinGTNnMvCJt-QK2NSMMdx6Qe/pub?start=false&loop=false&delayms=3000" "Topic modeling (open slides in new tab)">}}\\
