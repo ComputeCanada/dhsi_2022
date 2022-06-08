@@ -9,6 +9,20 @@ jupyter: python3
 
 
 
+{{<notes>}}
+If you don't want to type the code, you can copy the notebook `web_scraping.ipynb` into your home directory and run the cells directly.
+
+To do this, open a terminal in Jupyter Lab (open a new launcher and click on the "Terminal" button) and run the following code:
+
+``` shell
+cp ~/projects/def-sponsor00/shared/dhsi/web_scraping.ipynb .
+```
+
+Make sure not to forget the dot at the end.
+
+You should then see the `web_scraping.ipynb` file appear on the left panel. Double-click on it to open it.
+{{</notes>}}
+
 ## Load packages
 
 ``` python
