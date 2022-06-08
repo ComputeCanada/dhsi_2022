@@ -9,7 +9,7 @@
 
 *Connection Details:* {{<m>}}{{<a "https://us02web.zoom.us/j/84503894815?pwd=VjNPN0NEenE0bVRZZTNZV3dXTWg5UT09" "Lesson Room Link">}}\\
 *Lesson notes:* {{<m>}}{{<m>}}{{<m>}}{{<s>}}[[/web_scraping][Web scraping with Python]]\\
-{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}{{<a "https://colab.research.google.com/github/ComputeCanada/hss-programing-lab-2022/blob/main/API_en.ipynb" "API Querying Colab notebook">}}
+{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<m>}}{{<s>}}{{<a "https://colab.research.google.com/github/ComputeCanada/hss-programing-lab-2022/blob/main/API_en.ipynb" "API querying (Colab notebook)">}}
 
 ** Lesson Plan
 -----
