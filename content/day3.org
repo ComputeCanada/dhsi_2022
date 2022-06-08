@@ -7,7 +7,8 @@
 
 {{<cgr>}}9 am–1 pm Pacific Time{{</cgr>}}
 
-*Connection Details:* {{<m>}}{{<a "https://us02web.zoom.us/j/84503894815?pwd=VjNPN0NEenE0bVRZZTNZV3dXTWg5UT09" "Lesson Room Link">}}
+*Connection Details:* {{<m>}}{{<a "https://us02web.zoom.us/j/84503894815?pwd=VjNPN0NEenE0bVRZZTNZV3dXTWg5UT09" "Lesson Room Link">}}\\
+*Lesson notes:* {{<m>}}{{<m>}}{{<m>}}{{<s>}}[[/web_scraping][Web scraping with Python]]
 
 ** Lesson Plan
 -----
