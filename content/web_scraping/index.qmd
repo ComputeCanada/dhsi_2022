@@ -138,7 +138,7 @@ print(ls)
 Then, we create a list with the column names for our DataFrame:
 
 ```{python}
-cols = ["Name", "Population", "Capital", "Area"]
+cols = ["Name", "Capital", "Population", "Area"]
 ```
 
 Finally, we can create our DataFrame:

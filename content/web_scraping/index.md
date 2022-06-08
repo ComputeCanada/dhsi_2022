@@ -204,7 +204,7 @@ print(ls)
 Then, we create a list with the column names for our DataFrame:
 
 ``` python
-cols = ["Name", "Population", "Capital", "Area"]
+cols = ["Name", "Capital", "Population", "Area"]
 ```
 
 Finally, we can create our DataFrame:
@@ -223,18 +223,18 @@ type(df)
 print(df)
 ```
 
-                         Name        Population   Capital       Area
-    0                 Andorra  Andorra la Vella     84000      468.0
-    1    United Arab Emirates         Abu Dhabi   4975593    82880.0
-    2             Afghanistan             Kabul  29121286   647500.0
-    3     Antigua and Barbuda        St. John's     86754      443.0
-    4                Anguilla        The Valley     13254      102.0
-    ..                    ...               ...       ...        ...
-    245                 Yemen             Sanaa  23495361   527970.0
-    246               Mayotte         Mamoudzou    159042      374.0
-    247          South Africa          Pretoria  49000000  1219912.0
-    248                Zambia            Lusaka  13460305   752614.0
-    249              Zimbabwe            Harare  11651858   390580.0
+                         Name           Capital Population       Area
+    0                 Andorra  Andorra la Vella      84000      468.0
+    1    United Arab Emirates         Abu Dhabi    4975593    82880.0
+    2             Afghanistan             Kabul   29121286   647500.0
+    3     Antigua and Barbuda        St. John's      86754      443.0
+    4                Anguilla        The Valley      13254      102.0
+    ..                    ...               ...        ...        ...
+    245                 Yemen             Sanaa   23495361   527970.0
+    246               Mayotte         Mamoudzou     159042      374.0
+    247          South Africa          Pretoria   49000000  1219912.0
+    248                Zambia            Lusaka   13460305   752614.0
+    249              Zimbabwe            Harare   11651858   390580.0
 
     [250 rows x 4 columns]
 
